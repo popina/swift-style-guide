@@ -8,12 +8,6 @@ also incorporates feedback from usage across multiple Swift projects within
 Google. It is a living document and the basis upon which the formatter is
 implemented.
 
-## Table of Contents
-{:.no_toc}
-
-* TOC
-{:toc}
-
 ## Source File Basics
 
 ### File Names
